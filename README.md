@@ -2,5 +2,3 @@
 
 🔭 working on GL-RAT.
 🌱 learning JAVASCRIPT.
-💬 You can ask me about anything in coding.
-📫 How to reach me: https://fakecrime.bio/polusmert.
