@@ -1,10 +1,6 @@
 <img width="1366" height="768" alt="a" src="https://github.com/user-attachments/assets/177f5ae6-7364-4c10-a9fd-2af7464ea8dc" />
-<!--
-**polusmert/polusmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on GL-RAT...
-- 🌱 I’m currently learning JAVASCRIPT...
-- 💬 Ask me about anything in coding...
-- 📫 How to reach me: https://fakecrime.bio/polusmert...
+🔭 Im currently working on GL-RAT.
+🌱 Im currently learning JAVASCRIPT.
+💬 You can ask me about anything in coding.
+📫 How to reach me: https://fakecrime.bio/polusmert.
